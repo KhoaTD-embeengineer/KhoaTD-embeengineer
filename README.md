@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Thái Đăng Khoa, you can call me Khoa Thai
 
-<!--
-**KhoaTD-embeengineer/KhoaTD-embeengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on Embedded Systems and IoT development. 
 
-Here are some ideas to get you started:
+## Interests
+- Embedded Systems
+- IoT 
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+C | C++ | Assembly | C# | SQL | Python 
+
+## Skills
+
+### Software
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git
+- Desktop Application (Basic with .Net Framework)
+
+### Embedded Systems & Hardware / Digital Design
+- STM32 Microcontrollers
+- Digital Logic Design using Quartus
+- Circuit Simulation/Design using Proteus
+- Electronic Circuit Simulation using LTspice & Proteus
+
+## Current Projects
+- IoT Ice Cooling Robot
+
+## Goal
+Become a professional engineer in Embedded systems and IoT.
