@@ -25,7 +25,7 @@ C | C++ | Assembly | C# | SQL | Python
 - Electronic Circuit Simulation using LTspice & Proteus
 
 ## Current Projects
-- IoT Ice Cooling Robot
+- Dual-Mode Obstacle Avoidance Robot
 
 ## Goal
 Become a professional engineer in Embedded systems and IoT.
