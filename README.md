@@ -8,7 +8,7 @@ Computer Engineering student focused on Embedded Systems and IoT development.
 - Software Development
 
 ## Languages
-C | C++ | Assembly | C# | SQL | Python 
+C | C++ | Assembly | HTML, CSS, JavaScript | SQL | Python 
 
 ## Skills
 
@@ -16,16 +16,18 @@ C | C++ | Assembly | C# | SQL | Python
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Git
-- Desktop Application (Basic with .Net Framework)
+- Web Design
 
 ### Embedded Systems & Hardware / Digital Design
 - STM32 Microcontrollers
+- ESP32: ESP-IDF Framework 
 - Digital Logic Design using Quartus
 - Circuit Simulation/Design using Proteus
 - Electronic Circuit Simulation using LTspice & Proteus
+- PCB Circuit Design using Altium Designer
 
 ## Current Projects
-- Dual-Mode Obstacle Avoidance Robot
+- Personal E-commerce Website
 
 ## Goal
 Become a professional engineer in Embedded systems and IoT.
